@@ -1,17 +1,17 @@
 [
   {
     "name": "dribbble",
-    "url": "https://www.dribbble.com",
+    "url": "https://dribbble.com/hanyingchan",
     "icon": "dribbble"
   },
   {
     "name": "behance",
-    "url": "https://www.behance.com",
+    "url": "https://www.behance.net/han_208648e",
     "icon": "behance-square"
   },
   {
     "name": "linkedin",
-    "url": "https://www.linkin.com",
+    "url": "www.linkedin.com/in/hanyingchan",
     "icon": "linkedin-square"
   },
   {
@@ -21,12 +21,12 @@
   },
   {
     "name": "facebook",
-    "url": "https://www.facebook.com.tw/",
+    "url": "https://www.facebook.com/profile.php?id=100000275836711",
     "icon": "facebook-square"
   },
   {
     "name": "website",
-    "url": "none",
+    "url": "https://chanhanying.github.io",
     "icon": "home"
   }
 ]
